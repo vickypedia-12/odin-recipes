@@ -1,0 +1,2 @@
+This is a Project guided by the Odin Projects, It's my first project and this will contain a list of recipes.
+This will contain few recipes of the food items that i have already eaten or will eat in the future hehe.
